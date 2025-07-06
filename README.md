@@ -60,5 +60,5 @@ Includes:
 ## 👩‍💻 Author
 
 - **Monika Kamble**  
-- [LinkedIn](https://linkedin.com/in/monikakamble503) | [GitHub](https://github.com/Monikakamble503)
+- [LinkedIn](https://linkedin.com/in/monika100) | [GitHub](https://github.com/Monikakamble503)
 
